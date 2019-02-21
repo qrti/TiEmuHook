@@ -1,5 +1,5 @@
 # TiEmuHook
-####Touch &amp; Stylus Operation for TiEmu on Windows 7 + 8.1
+#### Touch &amp; Stylus Operation for TiEmu on Windows 7 + 8.1
 
 ![Screenshot](https://github.com/qrti/TiEmuHook/blob/master/Screenshot.png)
 
